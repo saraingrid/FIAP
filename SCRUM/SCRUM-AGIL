@@ -1,0 +1,19 @@
+Projeto ágil, Scrum.
+O Scrum é um framework de gerenciamento que as equipes usam para se auto-organizar e trabalhar em direção 
+a um objetivo em comum. A estrutura descreve um conjunto de reuniões, ferramentas e funções para uma entrega eficiente de 
+projetos.
+
+dev team - equipe que vai desenvolver o projeto;
+PO (Product Owner) - Responsável pelo produto (projeto) da empresa,
+é o representante do produto nomeado pela empresa e quem vai prestar todas as informações quanto ao projeto.
+
+Scrum Master: o facilitador, uma das principais responsabilidade dele é mediação entre o desenvolvedor e product owner.
+
+dev team: são vistos como os profissionais hands-on do projeto. Quem desenvolve o projeto.
+
+backlog: lista com todas as entregas ao longo do projeto.
+
+já começo a ter retorno sobre o investimento a partir da primeira entrega. 
+Cada entrega do backlog é uma MVP (minimo produto viavel), cada MVP tem uma sprint.
+
+por padrão, cada entrega deve ser no minimo de 7 dias e no maximo 30 dias.
