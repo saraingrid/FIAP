@@ -1,4 +1,4 @@
-Projeto ágil, Scrum.
+aProjeto ágil, Scrum.
 O Scrum é um framework de gerenciamento que as equipes usam para se auto-organizar e trabalhar em direção 
 a um objetivo em comum. A estrutura descreve um conjunto de reuniões, ferramentas e funções para uma entrega eficiente de 
 projetos.
@@ -18,6 +18,6 @@ Cada entrega do backlog é uma MVP (minimo produto viavel), cada MVP tem uma spr
 
 por padrão, cada entrega deve ser no minimo de 7 dias e no maximo 30 dias.
 
-Sprint Planning -> sprint backlog
+Sprint Planning -> primeira sprint para alinhamento das demais.
 todos os dias tem a daily de 10/ 15 minutos para que todos fiquem por dentro do caminhar do projeto.
 auto gerenciavel, ou seja, não há gerente de projetos.
